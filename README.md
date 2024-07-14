@@ -1,5 +1,7 @@
 # Game-Generation
 #Generation of ROCK PAPER SCISSORS Game
+
+
 import random
 print("Rules for ROCK-PAPER-SCISSORS Game : \n Paper vs Rock : Paper wins \n"
       "Rock vs Scissors : Rock wins \n Scissors vs Paper : Scissors wins") 
